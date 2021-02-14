@@ -1,13 +1,13 @@
 # SEIS-635-Project1
-## Self invented memory card game called #Guess What?
+## Self invented memory card game called Guess What?
 
-**Vision:
+### Vision:
 
 Guess what is for people with good memory skills and want to develop their memory. 
 It is a simple computer card game. It is very easy for users to learn the game, and improve their memory.
 
 
-**Guess What, Rules and Instructions:
+### Guess What, Rules and Instructions:
 
 1. The game uses only 52 cards with out the two jocker cards. Jack is considered 11, Queen is counted as
 12 and King signifies the 13th position
@@ -20,7 +20,7 @@ of the cards
 7. Players can have many tries depending on the number of playing decks selected. For example if they select only
 One playing deck, then they can have 13 tries. For two decks and 1 player they can have 26 tries. 
 
-**Requirements Written as User Stories:
+### Requirements Written as User Stories:
 
 1. As a player, I would like a game to really challenge my memory, to help me improve my memory skills.   [EPIC]
 2. As a player, I would like to play Gues What?, so that I can improve my memory skills.
