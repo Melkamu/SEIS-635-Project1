@@ -30,5 +30,8 @@ Two guessing only from 1 deck to guessing the cards in the dealt possition in al
 6. As a player, I would like to go through all the cards in the playing deck without changing the locations of the cards. So that I can remember where the cards
 are pointed by the dealt card.
 7. As a player, I would like to be dealt a random card from the dealing deck, so that I can remember what is in the position of the dealt card from the playing decks.
-8. As a player, I would like to be given a wining point if I guessed right, so that I can keep track of how my memory is.
+8. As a player, I would like to be given a wining or positive point if I guessed right, so that I can keep track of how my memory is improving.
+9. As a player, I would like to be given a losing or negative point if I guessed wrong, so that I can keep track of how my memory is not improving.
+10. As a player, I would like the software to let me customise the number of playing decks and number of players, so that I can change the difficulty for my self
+or play with others.
 
