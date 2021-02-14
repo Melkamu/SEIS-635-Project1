@@ -26,12 +26,13 @@ One playing deck, then they can have 13 tries. For two decks and 1 player they c
 2. As a player, I would like to play Gues What?, so that I can improve my memory skills.
 3. As a player, I would like to choose how many playing decks(1-3) I will be playing so that I can adjust how hard the game is. That is
 Two guessing only from 1 deck to guessing the cards in the dealt possition in all 3 decks.
+4. As a player, I would like the software to let me customise the number of players, so that I can change the difficulty for my self
+or play with others.
 5. As a player, I would like the software to set up a game with the number of decks I selected layed face down on the game surface so that I can begin to play.
 6. As a player, I would like to go through all the cards in the playing deck without changing the locations of the cards. So that I can remember where the cards
 are pointed by the dealt card.
 7. As a player, I would like to be dealt a random card from the dealing deck, so that I can remember what is in the position of the dealt card from the playing decks.
 8. As a player, I would like to be given a wining or positive point if I guessed right, so that I can keep track of how my memory is improving.
 9. As a player, I would like to be given a losing or negative point if I guessed wrong, so that I can keep track of how my memory is not improving.
-10. As a player, I would like the software to let me customise the number of playing decks and number of players, so that I can change the difficulty for my self
-or play with others.
+10. As a player, I would like the software to save my progress, so that I can track my memory progress as I increase the difficulty.
 
