@@ -5,7 +5,7 @@
 
 Guess what is for people with good memory skills and who want to develop their memory. 
 It is a simple computer card game. Its easy rules and little complexity makes it appealing for users to learn the game, and improve their memory. Unlike other 
-memory games it doesn't focus much on the technicalities of the came, instead it focuses on forcing the user to use their imagination and thinking to sharpen
+memory games it doesn't focus much on the technicalities of the game, instead it focuses on forcing the user to use their imagination and thinking to sharpen
 their memory skills.
 
 
